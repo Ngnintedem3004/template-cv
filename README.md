@@ -17,7 +17,7 @@ Click the **Copy** button to reuse this LaTeX CV template as-is.
 \title{Senior Software Engineer}
 
 % Ton nom et ton prenom + ton age (optionel)
-\author{Christopher K., 27}
+\author{Ngnintedem K., 21}
 \date{}
 
 \geometry{
@@ -79,4 +79,138 @@ Phoenix and Django.
   \addlinespace
 
   \textbf{Mobile frontend} & React Native, Expo, SwiftUI \\
-  \
+  \addlinespace
+
+  \textbf{Backend} & Phoenix, AdonisJS, Django, FastAPI, Flask, Gin, Backend as a Service (Firebase, Supabase, Pocketbase), MySQL, PostgreSQL, REST, tRPC \\
+  \addlinespace
+
+  \textbf{Tools} & Docker, Railway, AWS, Heroku, Build tools (Webpack, Vite), Testing tools (Jest, Playwright, Cypress, Postman, Insomnia) \\
+  \addlinespace
+
+  \textbf{Project management} & Kanban, SCRUM, Agile methods \\
+  \addlinespace
+
+  \textbf{Communication} & French (native), English (C1)
+
+\end{tabularx}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{4ex}
+\hrulefill
+\section*{Experiences}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%% EXPERIENCE 1
+%%
+\paragraph{Senior Frontend Engineer}\hspace*{\fill}July 2021 -- Present
+
+\noindent
+Company 1 | Domain | Toronto, Canada
+
+\raggedright
+\begin{itemize}
+  \item Languages and frameworks used
+  \item Mission 1
+  \item Mission 2
+\end{itemize}
+%% 
+%% STOP EXPERIENCE 1
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%% EXPERIENCE 2
+%%
+\paragraph{Senior Frontend Engineer}\hspace*{\fill}July 2018 -- July 2021
+
+\noindent
+Company 2 | Domain | Toronto, Canada
+
+\raggedright
+\begin{itemize}
+  \item Languages and frameworks used
+  \item Mission 1
+  \item Mission 2
+\end{itemize}
+%% 
+%% STOP EXPERIENCE 2
+%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{2ex}
+\hrulefill
+\section*{Education}
+
+\paragraph{M.Sc. in Computer Science}\hspace*{\fill}September 2016 -- September 2018
+
+\underline{French name}: Master M.I.A.G.E - Méthodes Informatiques appliquées à la Gestion d'Entreprise
+
+Université de Picardie Jules Verne | Amiens, France
+
+\vspace{\baselineskip}
+
+\textbf{Relevant coursework:}
+Object-Oriented Programming, System Programming, Web Technologies,
+Native Mobile Technologies, Business Marketing, Project Management
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{2ex}
+\hrulefill
+\section*{Projects}
+
+\paragraph{AskLive, Q/A sessions for content creators}
+| Micro SaaS\hspace*{\fill}Since February 2024
+
+Website: \href{https://asklive.co}{\underline{asklive.co}}
+
+\vspace{\baselineskip}
+
+AskLive is a web platform that connects to the Twitch chat (and other services)
+to automatically gather questions asked by the audience to a content creator.
+AskLive enhances content creators' engagement with their community by providing
+useful tools. It was developed using Elixir/Erlang and SolidJS.
+
+\paragraph{Concentration, a cross-platform productivity application}
+| Micro SaaS\hspace*{\fill}Since April 2022
+
+Website: \href{https://concentration.app}{\underline{concentration.app}}
+
+\vspace{\baselineskip}
+
+Concentration is a cross-platform Pomodoro timer that is accessible on Android,
+iOS, Windows, Linux, and macOS. It was developed using React Native and Tauri (Rust).
+Initially, it was created as a personal tool for content creation. However, due
+to its popularity, it was released publicly in April 2023. In three months, the
+application reached 2,000 active users.
+
+\vspace{\baselineskip}
+
+\paragraph{Twitch Stream} | Content creation\hspace*{\fill}Since December 2021
+
+Website: \href{https://twitch.tv/llcoolchris_}{\underline{twitch.tv/llcoolchris\_}}
+
+I began streaming code shortly before the pandemic. The main objective is to
+share knowledge, offer career advice, and provide a realistic portrayal of the
+software engineering world.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{2ex}
+\hrulefill
+
+\section*{Activities}
+\begin{itemize}
+  \item Ran 10K for supporting SickKids Toronto
+  \item Took part in a streaming event aimed at raising funds for EndoFrance,
+        raising a total of 20,000 euros
+\end{itemize}
+
+\end{document}
+
